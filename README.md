@@ -1,4 +1,4 @@
-# Helmet Detection System using YOLOv8
+# Introduction
 
 Hello everyone this is mohammad. I trained a model for helmet detection because i'm also a motorcyclist and i know how important it is without helmet. It  will be very dangerous specially in highways that cars pass with higher speed can collision will be fatal. This is An end-to-end Computer Vision pipeline built with YOLOv8 to detect helmet usage. Our classes are `With Helmet` vs `Without Helmet`.
 
